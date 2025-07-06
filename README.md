@@ -58,9 +58,9 @@ This experience allowed me to step into the role of a data analyst, analyze oper
 ## 🏅 Certificate of Completion
 
 > I successfully completed all tasks in the program.  
-> *(If you have a certificate, include it below)*
 
-📄 [View Certificate (PDF)](./Deloitte_Analytics_Certificate.pdf) *(optional)*
+
+📄 [View Certificate (PDF)](./Deloitte-certificate.pdf) *(optional)*
 
 ---
 
