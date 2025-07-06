@@ -51,7 +51,7 @@ This experience allowed me to step into the role of a data analyst, analyze oper
   - `Highly Discriminative` → <−20 or >20  
 - Created a new column `Equality Class` using Excel formulas.
 
-📄 *Excel File:* [Task2_Equality.xlsx](./Task2_Equality.xlsx)
+📄 *Excel File:* [Task2_Equality.xlsx](./Task 5 Equality Table.xlsx)
 
 ---
 
