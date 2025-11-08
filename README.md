@@ -60,7 +60,7 @@ This experience allowed me to step into the role of a data analyst, analyze oper
 > I successfully completed all tasks in the program.  
 
 
-📄 [View Certificate (PDF)](./Deloitte-certificate.pdf) *(optional)*
+📄 [View Certificate (PDF)](./Deloitte-certificate.pdf)
 
 ---
 
